@@ -1,2 +1,2 @@
 # ecoVerseOpen
-Open source library for 
+Open source hypercasual gaming environment for environmental sustainability.
